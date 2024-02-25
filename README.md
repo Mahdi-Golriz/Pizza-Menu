@@ -10,7 +10,7 @@ Pizza Menu React application
 - I have recently started to learn the React through a course from the Udemy instructed by Jonas Schmedtmann. During this course I should develop many training task, projects and applications. This the first task of this course :).
 - The simplest one!
 - In this section I learned about:
-- * How the React works through rendering the Root component
+  * How the React works through rendering the Root component
   * Defining, creating and reusing a component
   * JSX
   * Styling the components by inline styling and external CSS file
@@ -22,7 +22,7 @@ Pizza Menu React application
  
 - ## Technologies
 Project is created with:
-* react & Create React App
+* React & Create React App
 
 ## Setup
 This repository consists of two branches:

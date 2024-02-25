@@ -2,13 +2,12 @@
 Pizza Menu React application
 
 ## Table of contents
-* [General info](#general-info)
+* [About](#about)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-- [About](#about)
-- I have recently started to learn the React through a course from the Udemy instructed by Jonas Schmedtmann. During this course I should develop many training task, projects and applications. This the first task of this course :).
-- The simplest one!
+## About
+- I have recently started to learn the React through a course from the Udemy instructed by Jonas Schmedtmann. During this course I should develop many training task, projects and applications. This the first task of this course :). The simplest one!
 - In this section I learned about:
   * How the React works through rendering the Root component
   * Defining, creating and reusing a component
@@ -20,7 +19,7 @@ Pizza Menu React application
   * Destructuring Props, React fragment 
   * Setting classes and text conditionally
  
-- ## Technologies
+## Technologies
 Project is created with:
 * React & Create React App
 

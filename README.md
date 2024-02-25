@@ -7,7 +7,7 @@ Pizza Menu React application
 * [Setup](#setup)
 
 ## About
-- I have recently started to learn the React through a course from the Udemy instructed by Jonas Schmedtmann. During this course I should develop many training task, projects and applications. This the first task of this course :). The simplest one!
+- I have recently started to learn the React through a course from the Udemy instructed by Jonas Schmedtmann. During this course I should develop many training task, projects and applications. This is the first and simplest task of this course :).
 - In this section I learned about:
   * How the React works through rendering the Root component
   * Defining, creating and reusing a component
